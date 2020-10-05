@@ -12,11 +12,16 @@
 	<tr>
 		<td>1</td>
 		<td>Ejemplo uso del IF</td>
-		<td><a href="if.py">IF</a></td>
+		<td><a href="if.py">Ir a ejemplo 1</a></td>
+	</tr>
+	<tr>
+		<td>2</td>
+		<td>Ejemplo uso del MOD solicitando datos</td>
+		<td><a href="mod de otro.py">Ir a ejemplo 2</a></td>
+	</tr>
+	<tr>
+		<td>3</td>
+		<td>Ejemplo multiplos de 3 y 5</td>
+		<td><a href="mod.py">Ir a ejemplo 3</a></td>
 	</tr>
 </table>
-
-* Titulo
-* Creado por:
-* Logotipo de la EFPEM
-* Descripción y enlace para cada programa
