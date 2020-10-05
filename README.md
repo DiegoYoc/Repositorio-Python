@@ -12,7 +12,7 @@
 	<tr>
 		<td>1</td>
 		<td>Ejemplo uso del IF</td>
-		<td>if.py</td>
+		<td><a href="if.py">IF</a></td>
 	</tr>
 </table>
 
